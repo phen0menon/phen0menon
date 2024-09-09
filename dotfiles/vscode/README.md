@@ -9,3 +9,8 @@
     ```
 4. Open VS Code, Cmd + Shift + P -> Enable APC Extension -> Restart
 5. Enjoy
+
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/b4f61f92-fee5-4728-89b8-4fc514fa8e42">
+
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/db06e5ad-9309-4f70-909b-ca40b1e9ec16">
+
